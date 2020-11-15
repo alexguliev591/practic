@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\Alex\Desktop\practica\Practic\SecondForm.h(464,21): warning C4101: e: неиспользованная локальная переменная
+C:\Users\Alex\Desktop\practica\Practic\SecondForm.h(475,20): warning C4101: e: неиспользованная локальная переменная
+C:\Users\Alex\Desktop\practica\Practic\MyForm.h(193,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Practic.vcxproj -> C:\Users\Alex\Desktop\practica\x64\Debug\Practic.exe

@@ -1,0 +1,16 @@
+C:\Users\nikit\source\repos\Practic-master\Practic\x64\Debug\Practic.vcxprojAssemblyReference.cache
+C:\Users\nikit\source\repos\Practic-master\Practic\x64\Debug\Practic.MyForm.resources
+C:\Users\nikit\source\repos\Practic-master\Practic\x64\Debug\Practic.SecondForm.resources
+C:\Users\nikit\source\repos\Practic-master\Practic\x64\Debug\Practic.vcxproj.GenerateResource.cache
+C:\Users\nikit\source\repos\ahah\Practic\x64\Debug\Practic.vcxprojAssemblyReference.cache
+C:\Users\nikit\source\repos\ahah\Practic\x64\Debug\Practic.MyForm.resources
+C:\Users\nikit\source\repos\ahah\Practic\x64\Debug\Practic.SecondForm.resources
+C:\Users\nikit\source\repos\ahah\Practic\x64\Debug\Practic.vcxproj.GenerateResource.cache
+C:\Users\nikit\source\repos\ahah3\Practic\x64\Debug\Practic.vcxprojAssemblyReference.cache
+C:\Users\nikit\source\repos\ahah3\Practic\x64\Debug\Practic.MyForm.resources
+C:\Users\nikit\source\repos\ahah3\Practic\x64\Debug\Practic.SecondForm.resources
+C:\Users\nikit\source\repos\ahah3\Practic\x64\Debug\Practic.vcxproj.GenerateResource.cache
+C:\Users\Alex\Desktop\practica\Practic\x64\Debug\Practic.vcxprojAssemblyReference.cache
+C:\Users\Alex\Desktop\practica\Practic\x64\Debug\Practic.MyForm.resources
+C:\Users\Alex\Desktop\practica\Practic\x64\Debug\Practic.SecondForm.resources
+C:\Users\Alex\Desktop\practica\Practic\x64\Debug\Practic.vcxproj.GenerateResource.cache
